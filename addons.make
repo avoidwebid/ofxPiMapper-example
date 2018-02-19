@@ -1,0 +1,6 @@
+ofxGui
+ofxPiMapper
+ofxXmlSettings
+ofxOMXPlayer
+ofxScreenCurtain
+ofxAnimatable
