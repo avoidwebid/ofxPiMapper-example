@@ -1,2 +1,3 @@
 # ofxPiMapper-example
-An example from [ofxPiMapper](https://ofxpimapper.com/) with some additional addons integration
+An example based on [ofxPiMapper](https://github.com/kr15h/ofxPiMapper) with some OpenFrameworks addons integration and other features for personnal project.
+
